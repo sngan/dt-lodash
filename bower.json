@@ -1,0 +1,11 @@
+{
+  "name": "dt-lodash",
+  "version": "4.0.0",
+  "homepage": "https://github.com/sunny-ngan/dt-lodash",
+  "description": "DefinitelyTyped lodash definition for bower",
+  "keywords": [
+    "lodash",
+    "DefinitelyTyped",
+    "dts"
+  ]
+}
